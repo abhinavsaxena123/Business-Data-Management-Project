@@ -14,6 +14,9 @@ In the second stage, the collected sales and purchase data was cleaned, preproce
 ### Stage 3: Final Analysis, Interpretation & Recommendations
 The final phase involved a deep-dive analysis, including ABC and Pareto classifications and time-series comparisons. The results were interpreted to extract meaningful business insights. This stage culminated in the development of a comprehensive, data-driven solution framework and a set of actionable recommendations for the business owner.
 
+
+<img width="600" height="320" alt="image" src="https://github.com/user-attachments/assets/b06ca8f9-1521-4917-a848-49a265a98044" />
+
 ----------------------------------------------------------------------------
 
 ## Data-Driven Problem Solving for a Growing Trading and Distribution Business
