@@ -1,9 +1,24 @@
-# Business-Data-Management-Project
+# Business-Data-Management-Project 
 This project provides a data-driven analysis for Greenaway Enterprises LLP, a B2B trading firm facing significant operational challenges. 
+
+## Project Stages 📃
+
+This project was executed in three distinct phases, mirroring a standard data analysis lifecycle from conception to conclusion.
+
+### Stage 1: Project Proposal & Problem Identification
+This initial phase involved direct engagement with the business owner to understand their operational model and pain points. I defined the scope, formulated the three core problem statements, outlined the analytical approach, and established a project timeline.
+
+### Stage 2: Mid-Term Analysis & Preliminary Findings
+In the second stage, the collected sales and purchase data was cleaned, preprocessed, and subjected to initial descriptive and diagnostic analysis. This phase focused on validating the problem statements with preliminary data visualizations and statistical summaries, confirming the initial hypotheses regarding client concentration and inventory issues.
+
+### Stage 3: Final Analysis, Interpretation & Recommendations
+The final phase involved a deep-dive analysis, including ABC and Pareto classifications and time-series comparisons. The results were interpreted to extract meaningful business insights. This stage culminated in the development of a comprehensive, data-driven solution framework and a set of actionable recommendations for the business owner.
+
+----------------------------------------------------------------------------
 
 ## Data-Driven Problem Solving for a Growing Trading and Distribution Business
 
-Project Context: Online BS in Data Science & Applications - IIT Madras
+#### Project Context: Online BS in Data Science & Applications - IIT Madras
 
 This project is a core component of the Business Data Management course in the Online BS Degree in Data Science program from IIT Madras. 
 The assignment required students to engage directly with a real-world business, understand its operations, identify critical challenges through conversations with the owner, collect primary data, and perform a thorough analysis to provide actionable, data-driven recommendations.
