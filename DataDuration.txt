@@ -1,0 +1,7 @@
+Sales:
+	April 2023 - March 2024
+	April 2024 - December 2024
+Purchase:
+	1 April 2023 - 31 March 2024
+	1 April 2024 - 31 December 2024
+	
